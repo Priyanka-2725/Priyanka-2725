@@ -24,12 +24,11 @@ I focus on writing **clean, scalable, maintainable code** — not just code that
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,php,html,css,nodejs,mysql,bootstrap,git,github,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,php,django,laravel,nodejs,mysql,html,css,bootstrap,git,github,linux&perline=8" />
 </p>
-
 ---
 
 ## 🧠 Core Strengths
