@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Priyanka Singh</h1>
-<h3 align="center">Pre-Final Year CS Engineer • Full-Stack Builder • DSA Focused</h3>
+<h3 align="center">Pre-Final Year CSE Engineer • Full-Stack Builder • DSA Focused</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+systems.;I+solve+problems.;I+ship+projects.;Future+Software+Engineer+🚀" />
